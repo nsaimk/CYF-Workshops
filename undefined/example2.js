@@ -3,4 +3,4 @@ function sayHello() {
 }
 
 let result = sayHello();
-console.log(result);
+console.log(typeof result);
